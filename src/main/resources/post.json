@@ -1,0 +1,15 @@
+{
+    "name": "funcY2",
+    "date": "08/10/2023",
+    "documents": [
+        {
+            "version": 79959961000188,
+            "type": "CPF",
+            "name": "",
+            "date": "07/10/2023",
+            "expirationDate": "07/10/2043",
+            "description": ""
+        }
+    ],
+    "partyType": "FUNCIONARIO"
+}
